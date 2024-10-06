@@ -2,11 +2,11 @@
 
 🔧 Tech Stack:
 
-Front-end: React.js, Next.js, Tailwind CSS, JavaScript
+  🔘Front-end: React.js, Next.js, Tailwind CSS, JavaScript
 
-Back-end:  Laravel
+  🔘Back-end: Laravel
 
-UI Libraries: NextUI, ShadCN, RadixUI
+  🔘UI Libraries: NextUI, ShadCN, RadixUI
 
 Tools & Skills: Git, TanStack Table, Lucide React Icons,  VSCode (Tokyo Night theme), and more!
 
