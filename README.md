@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **employees management**
 
-- 👨‍💻 All of my projects are available at [(derkaoui.netlify.app)]
+- 👨‍💻 All of my projects are available at <a href="derkaoui.netlify.app">derkaoui.netlify.app</a>
 
 - 📫 How to reach me **derkaouidev@gmail.com**
 
