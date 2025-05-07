@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 👨‍💻 All of my projects are available at [derkaoui.netlify.app](derkaoui.netlify.app)
+- 👨‍💻 All of my projects are available at [derkaoui.netlify.app](https://derkaoui.netlify.app)
 
 - 💬 Ask me about **Next.js**
 
