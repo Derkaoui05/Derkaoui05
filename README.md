@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derkaoui05" alt="derkaoui05" /></a> </p>
 
-- 🔭 I’m currently working on [Barber Shop](sharplook.vercel.app)
+- 🔭 I’m currently working on [Barber Shop](https://sharplook.vercel.app)
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
