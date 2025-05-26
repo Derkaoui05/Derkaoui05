@@ -3,7 +3,9 @@
 ### Hello 🌎, I'm Derkaoui Yassir
 
 A dedicated software developer with a strong passion for building digital solutions that make life easier and more connected. I love turning ideas into real, functional applications that people actually enjoy using.
+
 With experience across both frontend and backend development, I focus on writing clean, maintainable code and creating intuitive user experiences. I enjoy working on challenging projects—whether it's for startups or established companies—and I'm always looking for ways to learn, grow, and push technology forward.
+
 Driven by curiosity and a love for innovation, I'm here to build the future, one line of code at a time.
 Let’s create something amazing together! 💡🚀
 
