@@ -11,7 +11,7 @@ Let’s create something amazing together!💡🚀
 
   - 🔭 I’m currently working on Barber shop project
   - 🌱 I’m currently learning; Junit, Jakarta, Spring Boot.
-  - 💬 Ask me about **Html, Css, Tailwindcss, Javascript, Typescript, React, PHP, Laravel, Java, Spring Boot**
+  - 💬 Ask me about **HTML, CSS, Tailwindcss, Javascript, Typescript, React, PHP, Laravel, Java, Spring Boot**
   - ⚡ Fun fact: I look like a hobbit.
 
 <h3 align="left">Connect with me:</h3>
