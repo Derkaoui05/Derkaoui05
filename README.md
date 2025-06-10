@@ -10,7 +10,7 @@ Driven by curiosity and a love for innovation, I'm here to build the future, one
 Let’s create something amazing together!💡🚀
 
   - 🔭 I’m currently working on Barber shop project
-  - 🌱 I’m currently learning; Junit, Jakarta, Spring Boot.
+  - 🌱 I’m currently learning Spring Boot.
   - 💬 Ask me about **HTML, CSS, Tailwindcss, Javascript, Typescript, React, PHP, Laravel, Java, Spring Boot**
   - ⚡ Fun fact: I look like a hobbit.
 
