@@ -11,7 +11,7 @@ Let’s create something amazing together!💡🚀
 
   - 🔭 I’m currently working on realestate project
   - 🌱 I’m currently learning Spring Boot.
-  - 💬 Ask me about **HTML, CSS, TailwindCSS, Typescript, React, PHP, Laravel, Java, Spring Boot**
+  - 💬 Ask me about **HTML, CSS, TailwindCSS, Javascript, Typescript, React, PHP, Laravel, Java, Spring Boot**
   - ⚡ Fun fact: I look like a hobbit.
 
 <h3 align="left">Connect with me:</h3>
