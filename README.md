@@ -9,6 +9,7 @@ With experience across both frontend and backend development, I focus on writing
 Driven by curiosity and a love for innovation, I'm here to build the future, one line of code at a time.
 Let’s create something amazing together!💡🚀
 
+  - 🏗️ I’m currently working on an **ERP project**.
   - 🌱 I’m currently learning Spring Boot.
   - 💬 Ask me about **HTML, CSS, TailwindCSS, Javascript, Typescript, React, PHP, Laravel, Java, Spring Boot**
   - ⚡ Fun fact: I look like a hobbit.
