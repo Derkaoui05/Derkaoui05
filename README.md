@@ -10,7 +10,7 @@ Driven by curiosity and a love for innovation, I'm here to build the future, one
 Let’s create something amazing together!💡🚀
 
   - 🌱 I’m currently learning Spring Boot.
-  - 💬 Ask me about **HTML, CSS, TailwindCSS, Javascript, Typescript, React, PHP, Laravel, Java, Spring Boot*
+  - 💬 Ask me about **Typescript, React, PHP, Laravel, Java, Spring Boot*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
