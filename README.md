@@ -32,12 +32,6 @@ Let’s create something amazing together!💡🚀
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Derkaoui05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Derkaoui05"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/Derkaoui05">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Derkaoui05&&theme=tokyonight" alt="Derkaoui05" />
-  </a>
-</p>
-
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
