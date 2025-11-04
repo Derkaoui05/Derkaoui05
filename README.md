@@ -70,6 +70,3 @@ Let’s create something amazing together!💡🚀
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
 </table>
-
-------
-[Derkaoui05](https://github.com/Derkaoui05)
