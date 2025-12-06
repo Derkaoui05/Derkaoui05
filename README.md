@@ -1,64 +1,64 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<h1 align="center">
+  <b>Derkaoui Yassir - Full Stack Developer</b>
+</h1>
 
-### Hello 🌎, I'm Derkaoui Yassir
+<p align="center"><samp>
+Hey, I'm Yassir Derkaoui — a passionate full stack developer from Morocco.  
+I love building modern web apps using React, Next.js, Laravel, and exploring how technology can solve real problems.  
+Curious, motivated, and always learning, I enjoy creating clean, efficient solutions and improving a little more every day through code.
+</samp></p>
 
-A dedicated software developer with a strong passion for building digital solutions that make life easier and more connected. I love turning ideas into real, functional applications that people actually enjoy using.
+<br/>
 
-With experience across both frontend and backend development, I focus on writing clean, maintainable code and creating intuitive user experiences. I enjoy working on challenging projects—whether it's for startups or established companies—and I'm always looking for ways to learn, grow, and push technology forward.
+<!-- TECHNOLOGIES -->
+<div align="center">
 
-Driven by curiosity and a love for innovation, I'm here to build the future, one line of code at a time.
-Let’s create something amazing together!💡🚀
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-  - 🌱 I’m currently learning Springboot.
-  - 💬 Ask me about **Typescript, React, PHP, Laravel, Java, Spring Boot, WordPress*
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-4EA94B?style=for-the-badge&logo=spring&logoColor=white">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="derkaoui" height="40" width="60" ></i>
-</a>
-</p>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Derkaoui05&label=Profile%20views&color=0e75b6&style=flat" alt="Derkaoui05" /> </p>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-00C4CC?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 
-<h3 align="left">Activity:</h3>
+</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Derkaoui05&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
 
-<!-- <div align="center">
-  <a href="https://github.com/Derkaoui05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Derkaoui05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Derkaoui05"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Derkaoui05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Derkaoui05"/>
+<!-- TROPHIES -->
+<div align="center">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Profile Trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=Derkaoui05&theme=onedark&no-bg=true&no-frame=true&margin-w=10&margin-h=15&row=1&column=7"alt="GitHub Trophies"
+      width="90%"
+    />
   </a>
-</div> -->
 
-<h3 align="left">Languages and Tools:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,laravel,spring,maven,hibernate,nodejs,fastapi,vite"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,tailwind,html,css,js,ts"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ideas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,vim"/><img style="height:40px" src="https://cdn.brandfetch.io/cursor.com/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" style="height:40px" /></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=notion,figma,bash"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
-    </tr>
-</table>
+</div>
+
+<br/>
+
+<p align="center"><samp>
+Explore my repositories 👇  
+</samp></p>
