@@ -48,11 +48,15 @@ Curious, motivated, and always learning, I enjoy creating clean, efficient solut
 <!-- TROPHIES -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Profile Trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Derkaoui05&theme=onedark&no-bg=true&no-frame=true&margin-w=10&margin-h=15&row=1&column=7" alt="GitHub Trophies" width="90%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=derkaoui05&theme=onedark&no-bg=true&no-frame=true&margin-w=10&margin-h=15&row=1&column=7" alt="GitHub Trophies" width="90%"/>
   </a>
 </div>
 <br/>
 
 <p align="center"><samp>
-Explore my repositories 👇  
+Explore my repositories 👇 
 </samp></p>
+  <br />
+  <div  align="center">
+<a href="https://github.com/Derkaoui05?tab=repositories" target="blank">Click Here</a>
+  </div>
