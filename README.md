@@ -1,13 +1,13 @@
 <picture>
   <source
-    srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=435&size=22&pause=1000&width=435&lines=Hello+Developers!+%F0%9F%91%8B;Just+keep+swimming!"
+    srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=435&size=22&pause=1000&width=435&lines=Hello+World!+%F0%9F%91%8B;Just+keep+swimming!"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=435&color=F15D44&size=22&pause=1000&width=435&lines=Hello+Developers!+%F0%9F%91%8B;Just+keep+swimming!"
+    srcset="https://readme-typing-svg.demolab.com?font=Consolas&weight=435&color=F15D44&size=22&pause=1000&width=435&lines=Hello+World!+%F0%9F%91%8B;Just+keep+swimming!"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=435&color=F15D44&size=22&pause=1000&width=435&lines=Hello+Developers!+%F0%9F%91%8B;Just+keep+swimming!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=435&color=F15D44&size=22&pause=1000&width=435&lines=Hello+World!+%F0%9F%91%8B;Just+keep+swimming!" />
 </picture>
 
 ![](https://komarev.com/ghpvc/?username=Derkaoui05&style=flat-square&label=PROFILE+VIEWS&abbreviated=true)
