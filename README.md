@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=Derkaoui05&style=flat-square&label=PROFILE+VIEWS&abbreviated=true)
 
 Hi!
-Derkaoui Yassir here, nice to join in this community.
+Derkaoui Yassir here, nice to join in this society.
 Hope we all enjoy it!
 
 [![cy-Yin's GitHub stats-Dark](https://github-readme-stats-cyyin.vercel.app/api?username=Derkaoui05&count_private=true&show_icons=true&theme=react&hide_border=true&show_owner=true&show=discussions_answered&disable_animations=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
