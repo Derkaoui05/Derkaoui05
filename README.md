@@ -12,7 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Derkaoui05&style=flat-square&label=PROFILE+VIEWS&abbreviated=true)
 
-Hi!
+Hello!
 Derkaoui Yassir here, nice to join in this community.
 Hope we all enjoy it!
 
